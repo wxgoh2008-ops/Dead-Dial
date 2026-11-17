@@ -1,2 +1,0 @@
-# Dead-Dial
-Mini IT
