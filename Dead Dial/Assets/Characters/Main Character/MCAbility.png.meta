@@ -1,187 +1,166 @@
 fileFormatVersion: 2
-guid: ac9ffa2df9f340a4f9d1704d14c83cb6
+guid: ed4230c4e2190f847adc4afc528ed6dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6863246505373101655
-    second: MC_0
+      213: -8815942634087546606
+    second: MCAbility_0
   - first:
-      213: -1924967503192116523
-    second: MC_1
+      213: -4545305525875650656
+    second: MCAbility_1
   - first:
-      213: -6260237620725970975
-    second: MC_2
+      213: -2193985088779921127
+    second: MCAbility_2
   - first:
-      213: -5643334947165032866
-    second: MC_3
+      213: 2940096048757852829
+    second: MCAbility_3
   - first:
-      213: 6135918749906333967
-    second: MC_4
+      213: -5469296356873649059
+    second: MCAbility_4
   - first:
-      213: 5175843303285065140
-    second: MC_5
+      213: 8106386232841830785
+    second: MCAbility_5
   - first:
-      213: 8978587029764345837
-    second: MC_6
+      213: 6740602636641644829
+    second: MCAbility_6
   - first:
-      213: 4710755528382874759
-    second: MC_7
+      213: 2554231079493410204
+    second: MCAbility_7
   - first:
-      213: -7491433212776631916
-    second: MC_8
+      213: 1793026288901531356
+    second: MCAbility_8
   - first:
-      213: 6046315806682182097
-    second: MC_9
+      213: 3863993067908556815
+    second: MCAbility_9
   - first:
-      213: -4366524311100733777
-    second: MC_10
+      213: 6379029847724255572
+    second: MCAbility_10
   - first:
-      213: -974676990785536744
-    second: MC_11
+      213: 4857323155808810503
+    second: MCAbility_11
   - first:
-      213: -1562478901628554297
-    second: MC_12
+      213: -837563567218085436
+    second: MCAbility_12
   - first:
-      213: -8466061855047780131
-    second: MC_13
+      213: -4900471412649572193
+    second: MCAbility_13
   - first:
-      213: 279258095228634330
-    second: MC_14
+      213: 7531897180478605165
+    second: MCAbility_14
   - first:
-      213: 5274734203553616916
-    second: MC_15
+      213: -2884962548443229398
+    second: MCAbility_15
   - first:
-      213: 3225260356733930587
-    second: MC_16
+      213: 1346891858153503718
+    second: MCAbility_16
   - first:
-      213: 373206853298094514
-    second: MC_17
+      213: -7181834968710690652
+    second: MCAbility_17
   - first:
-      213: 2984074252734393241
-    second: MC_18
+      213: 1644735759338607427
+    second: MCAbility_18
   - first:
-      213: -8049710614509202208
-    second: MC_19
+      213: 4508893047722656719
+    second: MCAbility_19
   - first:
-      213: -2282067474139517486
-    second: MC_20
+      213: -3914694088335491763
+    second: MCAbility_20
   - first:
-      213: -4167032046673177572
-    second: MC_21
+      213: -7421844440024296327
+    second: MCAbility_21
   - first:
-      213: 4157072821181168117
-    second: MC_22
+      213: -4068081671498905964
+    second: MCAbility_22
   - first:
-      213: -5184859421852141707
-    second: MC_23
+      213: -950319362071860835
+    second: MCAbility_23
   - first:
-      213: -84049256329480232
-    second: MC_24
+      213: -1480507504358163559
+    second: MCAbility_24
   - first:
-      213: -3684155408945009019
-    second: MC_25
+      213: -3856977971235759948
+    second: MCAbility_25
   - first:
-      213: 1644062138021629628
-    second: MC_26
+      213: -4630820254190614797
+    second: MCAbility_26
   - first:
-      213: 4298419661847976660
-    second: MC_27
+      213: -8357319479346430986
+    second: MCAbility_27
   - first:
-      213: 8529284683632767307
-    second: MC_28
+      213: -5078583021715520318
+    second: MCAbility_28
   - first:
-      213: -2346443901798229883
-    second: MC_29
+      213: 8067141378202766572
+    second: MCAbility_29
   - first:
-      213: -2352272408999368033
-    second: MC_30
+      213: 3260193023634490329
+    second: MCAbility_30
   - first:
-      213: -3467070650103736609
-    second: MC_31
+      213: 5519103541697576193
+    second: MCAbility_31
   - first:
-      213: 1010206555381495703
-    second: MC_32
+      213: -474042495768338624
+    second: MCAbility_32
   - first:
-      213: -1219062665313817185
-    second: MC_33
+      213: -1255266282306043108
+    second: MCAbility_33
   - first:
-      213: 7393138893800189325
-    second: MC_34
+      213: -8759559427504710615
+    second: MCAbility_34
   - first:
-      213: -1818440981740130217
-    second: MC_35
+      213: -482023247615640894
+    second: MCAbility_35
   - first:
-      213: 2876971094086209098
-    second: MC_36
+      213: 84307064716472326
+    second: MCAbility_36
   - first:
-      213: -2078916069634430991
-    second: MC_37
+      213: -321404541012786880
+    second: MCAbility_37
   - first:
-      213: 8346252300081643280
-    second: MC_38
+      213: -5746560508208299101
+    second: MCAbility_38
   - first:
-      213: 6876178271774738010
-    second: MC_39
+      213: 387666173361287001
+    second: MCAbility_39
   - first:
-      213: -4064910345757812909
-    second: MC_40
+      213: 7362349565331190736
+    second: MCAbility_40
   - first:
-      213: 93496259646970246
-    second: MC_41
+      213: -8864708594289189163
+    second: MCAbility_41
   - first:
-      213: 5490633025957149958
-    second: MC_42
+      213: -1946432627390864190
+    second: MCAbility_42
   - first:
-      213: -8926417749294132982
-    second: MC_43
+      213: -2925258751270838947
+    second: MCAbility_43
   - first:
-      213: 2314151258237744808
-    second: MC_44
+      213: 599664182585671435
+    second: MCAbility_44
   - first:
-      213: 1347061488976244433
-    second: MC_45
+      213: 6937156036949882326
+    second: MCAbility_45
   - first:
-      213: -8623579804945270647
-    second: MC_46
+      213: -4003700019051503588
+    second: MCAbility_46
   - first:
-      213: -7689035484891037925
-    second: MC_47
+      213: -7608470727779394904
+    second: MCAbility_47
   - first:
-      213: -422949861506798286
-    second: MC_48
+      213: 6777028456096533551
+    second: MCAbility_48
   - first:
-      213: 79100413741094989
-    second: MC_49
+      213: -6753062878385120266
+    second: MCAbility_49
   - first:
-      213: 8551418429140107517
-    second: MC_50
+      213: 6964523807252862417
+    second: MCAbility_50
   - first:
-      213: 4598392922217055564
-    second: MC_51
+      213: 7998068138796829894
+    second: MCAbility_51
   - first:
-      213: -6447097786867055337
-    second: MC_52
-  - first:
-      213: -7236743621202002881
-    second: MC_53
-  - first:
-      213: 3023786948367404929
-    second: MC_54
-  - first:
-      213: 2238055926479638040
-    second: MC_55
-  - first:
-      213: 5420964490087052396
-    second: MC_56
-  - first:
-      213: 4291350821501160192
-    second: MC_57
-  - first:
-      213: -3693492451748264338
-    second: MC_58
-  - first:
-      213: 8713453227633984067
-    second: MC_59
+      213: -5963524327201574533
+    second: MCAbility_52
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -292,7 +271,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MC_0
+      name: MCAbility_0
       rect:
         serializedVersion: 2
         x: 0
@@ -307,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 75e64b665562f3f50800000000000000
-      internalID: 6863246505373101655
+      spriteID: 2118df612ea77a580800000000000000
+      internalID: -8815942634087546606
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_1
+      name: MCAbility_1
       rect:
         serializedVersion: 2
         x: 100
@@ -329,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d2301831442945e0800000000000000
-      internalID: -1924967503192116523
+      spriteID: 0afcf8ec4b4dbe0c0800000000000000
+      internalID: -4545305525875650656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_2
+      name: MCAbility_2
       rect:
         serializedVersion: 2
         x: 200
@@ -351,14 +330,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1e787175d0b2f19a0800000000000000
-      internalID: -6260237620725970975
+      spriteID: 919d4cc9f266d81e0800000000000000
+      internalID: -2193985088779921127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_3
+      name: MCAbility_3
       rect:
         serializedVersion: 2
         x: 300
@@ -373,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e5e2ea5e3c8dea1b0800000000000000
-      internalID: -5643334947165032866
+      spriteID: d9acdbf67c15dc820800000000000000
+      internalID: 2940096048757852829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_4
+      name: MCAbility_4
       rect:
         serializedVersion: 2
         x: 400
@@ -395,14 +374,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0173d2f799272550800000000000000
-      internalID: 6135918749906333967
+      spriteID: d544535e0f72914b0800000000000000
+      internalID: -5469296356873649059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_5
+      name: MCAbility_5
       rect:
         serializedVersion: 2
         x: 500
@@ -417,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b50461cf0a44d740800000000000000
-      internalID: 5175843303285065140
+      spriteID: 18187ac445baf7070800000000000000
+      internalID: 8106386232841830785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_6
+      name: MCAbility_6
       rect:
         serializedVersion: 2
         x: 600
@@ -439,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: def880e35595a9c70800000000000000
-      internalID: 8978587029764345837
+      spriteID: d113611826e6b8d50800000000000000
+      internalID: 6740602636641644829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_7
+      name: MCAbility_7
       rect:
         serializedVersion: 2
         x: 700
@@ -461,14 +440,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78408f4c137ff5140800000000000000
-      internalID: 4710755528382874759
+      spriteID: c9d977742a3727320800000000000000
+      internalID: 2554231079493410204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_8
+      name: MCAbility_8
       rect:
         serializedVersion: 2
         x: 800
@@ -483,14 +462,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 491b2ed2f25190890800000000000000
-      internalID: -7491433212776631916
+      spriteID: cd6a9eee8eb12e810800000000000000
+      internalID: 1793026288901531356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_9
+      name: MCAbility_9
       rect:
         serializedVersion: 2
         x: 900
@@ -505,14 +484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d1fe110134d8e350800000000000000
-      internalID: 6046315806682182097
+      spriteID: f08e2431939af9530800000000000000
+      internalID: 3863993067908556815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_10
+      name: MCAbility_10
       rect:
         serializedVersion: 2
         x: 1000
@@ -527,14 +506,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa6cbbd164df663c0800000000000000
-      internalID: -4366524311100733777
+      spriteID: 459e73559ddd68850800000000000000
+      internalID: 6379029847724255572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_11
+      name: MCAbility_11
       rect:
         serializedVersion: 2
         x: 0
@@ -549,14 +528,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81d3b71e0704972f0800000000000000
-      internalID: -974676990785536744
+      spriteID: 706734dccada86340800000000000000
+      internalID: 4857323155808810503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_12
+      name: MCAbility_12
       rect:
         serializedVersion: 2
         x: 100
@@ -571,14 +550,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c33363a7b5f05ae0800000000000000
-      internalID: -1562478901628554297
+      spriteID: 4c1382b8f506064f0800000000000000
+      internalID: -837563567218085436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_13
+      name: MCAbility_13
       rect:
         serializedVersion: 2
         x: 200
@@ -593,14 +572,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd874631991828a80800000000000000
-      internalID: -8466061855047780131
+      spriteID: f98c019c6370efbb0800000000000000
+      internalID: -4900471412649572193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_14
+      name: MCAbility_14
       rect:
         serializedVersion: 2
         x: 300
@@ -615,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad441ce02cf10e300800000000000000
-      internalID: 279258095228634330
+      spriteID: d678137749ca68860800000000000000
+      internalID: 7531897180478605165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_15
+      name: MCAbility_15
       rect:
         serializedVersion: 2
         x: 400
@@ -637,14 +616,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4149a67bfce933940800000000000000
-      internalID: 5274734203553616916
+      spriteID: a235cbde8dd86f7d0800000000000000
+      internalID: -2884962548443229398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_16
+      name: MCAbility_16
       rect:
         serializedVersion: 2
         x: 500
@@ -659,14 +638,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5c864fc43d62cc20800000000000000
-      internalID: 3225260356733930587
+      spriteID: 6ebfa14420f11b210800000000000000
+      internalID: 1346891858153503718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_17
+      name: MCAbility_17
       rect:
         serializedVersion: 2
         x: 600
@@ -681,14 +660,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b1039ed7a5ed2500800000000000000
-      internalID: 373206853298094514
+      spriteID: 4a8458e952ff45c90800000000000000
+      internalID: -7181834968710690652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_18
+      name: MCAbility_18
       rect:
         serializedVersion: 2
         x: 700
@@ -703,14 +682,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99b6f99f8bf896920800000000000000
-      internalID: 2984074252734393241
+      spriteID: 34392cc757643d610800000000000000
+      internalID: 1644735759338607427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_19
+      name: MCAbility_19
       rect:
         serializedVersion: 2
         x: 800
@@ -725,14 +704,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e4dc7568dea94090800000000000000
-      internalID: -8049710614509202208
+      spriteID: fc3ccb7765ec29e30800000000000000
+      internalID: 4508893047722656719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_20
+      name: MCAbility_20
       rect:
         serializedVersion: 2
         x: 900
@@ -747,14 +726,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2dde07229b77450e0800000000000000
-      internalID: -2282067474139517486
+      spriteID: d4df074b7763ca9c0800000000000000
+      internalID: -3914694088335491763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_21
+      name: MCAbility_21
       rect:
         serializedVersion: 2
         x: 1000
@@ -769,14 +748,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1450627e6abb26c0800000000000000
-      internalID: -4167032046673177572
+      spriteID: 974d42eedcf400990800000000000000
+      internalID: -7421844440024296327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_22
+      name: MCAbility_22
       rect:
         serializedVersion: 2
         x: 0
@@ -791,14 +770,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5f93feba4b3e0b930800000000000000
-      internalID: 4157072821181168117
+      spriteID: 496c70df5454b87c0800000000000000
+      internalID: -4068081671498905964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_23
+      name: MCAbility_23
       rect:
         serializedVersion: 2
         x: 100
@@ -813,14 +792,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5777a2e83ddab08b0800000000000000
-      internalID: -5184859421852141707
+      spriteID: d99e7804399cfc2f0800000000000000
+      internalID: -950319362071860835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_24
+      name: MCAbility_24
       rect:
         serializedVersion: 2
         x: 200
@@ -835,14 +814,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d778dc85a565def0800000000000000
-      internalID: -84049256329480232
+      spriteID: 99b7e63d44e247be0800000000000000
+      internalID: -1480507504358163559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_25
+      name: MCAbility_25
       rect:
         serializedVersion: 2
         x: 300
@@ -857,14 +836,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58eaf70dc204fdcc0800000000000000
-      internalID: -3684155408945009019
+      spriteID: 4b85cf568f2497ac0800000000000000
+      internalID: -3856977971235759948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_26
+      name: MCAbility_26
       rect:
         serializedVersion: 2
         x: 400
@@ -879,14 +858,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbec27dcdc1e0d610800000000000000
-      internalID: 1644062138021629628
+      spriteID: 3f6c84293850cbfb0800000000000000
+      internalID: -4630820254190614797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_27
+      name: MCAbility_27
       rect:
         serializedVersion: 2
         x: 500
@@ -901,14 +880,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4dad00098ed07ab30800000000000000
-      internalID: 4298419661847976660
+      spriteID: 6fb7a176636d40c80800000000000000
+      internalID: -8357319479346430986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_28
+      name: MCAbility_28
       rect:
         serializedVersion: 2
         x: 600
@@ -923,14 +902,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b417c1cca3b1e5670800000000000000
-      internalID: 8529284683632767307
+      spriteID: 2c4015436af3589b0800000000000000
+      internalID: -5078583021715520318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_29
+      name: MCAbility_29
       rect:
         serializedVersion: 2
         x: 700
@@ -945,14 +924,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5885feb04b1cf6fd0800000000000000
-      internalID: -2346443901798229883
+      spriteID: cec81a8875e34ff60800000000000000
+      internalID: 8067141378202766572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_30
+      name: MCAbility_30
       rect:
         serializedVersion: 2
         x: 800
@@ -967,14 +946,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9ae3a6f4bc0b5fd0800000000000000
-      internalID: -2352272408999368033
+      spriteID: 9d3c0f028488e3d20800000000000000
+      internalID: 3260193023634490329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_31
+      name: MCAbility_31
       rect:
         serializedVersion: 2
         x: 900
@@ -989,14 +968,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd65261fc9d72efc0800000000000000
-      internalID: -3467070650103736609
+      spriteID: 10dfb710e6bc79c40800000000000000
+      internalID: 5519103541697576193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_32
+      name: MCAbility_32
       rect:
         serializedVersion: 2
         x: 1000
@@ -1011,14 +990,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 797f8438289f40e00800000000000000
-      internalID: 1010206555381495703
+      spriteID: 04fd9479cdcdb69f0800000000000000
+      internalID: -474042495768338624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_33
+      name: MCAbility_33
       rect:
         serializedVersion: 2
         x: 0
@@ -1033,14 +1012,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9d670bf6f4051fe0800000000000000
-      internalID: -1219062665313817185
+      spriteID: c138f9887f5649ee0800000000000000
+      internalID: -1255266282306043108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_34
+      name: MCAbility_34
       rect:
         serializedVersion: 2
         x: 100
@@ -1055,14 +1034,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8da51447a4b99660800000000000000
-      internalID: 7393138893800189325
+      spriteID: 92c58ae5c1bcf6680800000000000000
+      internalID: -8759559427504710615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_35
+      name: MCAbility_35
       rect:
         serializedVersion: 2
         x: 200
@@ -1077,14 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 750fd56cf8993c6e0800000000000000
-      internalID: -1818440981740130217
+      spriteID: 2cab36009628f49f0800000000000000
+      internalID: -482023247615640894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_36
+      name: MCAbility_36
       rect:
         serializedVersion: 2
         x: 300
@@ -1099,14 +1078,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4e431c97fd0de720800000000000000
-      internalID: 2876971094086209098
+      spriteID: 6003b7424d48b2100800000000000000
+      internalID: 84307064716472326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_37
+      name: MCAbility_37
       rect:
         serializedVersion: 2
         x: 400
@@ -1121,14 +1100,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f7a69769d43623e0800000000000000
-      internalID: -2078916069634430991
+      spriteID: 0414cb7d5442a8bf0800000000000000
+      internalID: -321404541012786880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_38
+      name: MCAbility_38
       rect:
         serializedVersion: 2
         x: 500
@@ -1143,14 +1122,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01f37202f38d3d370800000000000000
-      internalID: 8346252300081643280
+      spriteID: 3a3c4f31aad1040b0800000000000000
+      internalID: -5746560508208299101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_39
+      name: MCAbility_39
       rect:
         serializedVersion: 2
         x: 600
@@ -1165,14 +1144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a568465e4b71d6f50800000000000000
-      internalID: 6876178271774738010
+      spriteID: 95f62aaa454416500800000000000000
+      internalID: 387666173361287001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_40
+      name: MCAbility_40
       rect:
         serializedVersion: 2
         x: 700
@@ -1187,14 +1166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3579b4dc3998697c0800000000000000
-      internalID: -4064910345757812909
+      spriteID: 0d331d91ce15c2660800000000000000
+      internalID: 7362349565331190736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_41
+      name: MCAbility_41
       rect:
         serializedVersion: 2
         x: 800
@@ -1209,14 +1188,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 689d5105a5a2c4100800000000000000
-      internalID: 93496259646970246
+      spriteID: 5de5a00308a3af480800000000000000
+      internalID: -8864708594289189163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_42
+      name: MCAbility_42
       rect:
         serializedVersion: 2
         x: 900
@@ -1231,14 +1210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60d343085a5a23c40800000000000000
-      internalID: 5490633025957149958
+      spriteID: 2c4232986d1ecf4e0800000000000000
+      internalID: -1946432627390864190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_43
+      name: MCAbility_43
       rect:
         serializedVersion: 2
         x: 1000
@@ -1253,14 +1232,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a01d498e95efe1480800000000000000
-      internalID: -8926417749294132982
+      spriteID: d5d16661aa46767d0800000000000000
+      internalID: -2925258751270838947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_44
+      name: MCAbility_44
       rect:
         serializedVersion: 2
         x: 0
@@ -1275,14 +1254,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a6b8c7fe448d1020800000000000000
-      internalID: 2314151258237744808
+      spriteID: b0f3b8b956f625800800000000000000
+      internalID: 599664182585671435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_45
+      name: MCAbility_45
       rect:
         serializedVersion: 2
         x: 100
@@ -1297,14 +1276,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dea9058949b1b210800000000000000
-      internalID: 1347061488976244433
+      spriteID: 6d5bad539aab54060800000000000000
+      internalID: 6937156036949882326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_46
+      name: MCAbility_46
       rect:
         serializedVersion: 2
         x: 200
@@ -1319,14 +1298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 988310a6bd3e25880800000000000000
-      internalID: -8623579804945270647
+      spriteID: c10e5319b000078c0800000000000000
+      internalID: -4003700019051503588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MC_47
+      name: MCAbility_47
       rect:
         serializedVersion: 2
         x: 300
@@ -1341,8 +1320,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1f32b9f6fe0b4590800000000000000
-      internalID: -7689035484891037925
+      spriteID: 8aa50ca3f28496690800000000000000
+      internalID: -7608470727779394904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCAbility_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c095e7977dc0e50800000000000000
+      internalID: 6777028456096533551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCAbility_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb5af3671d4842a0800000000000000
+      internalID: -6753062878385120266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCAbility_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5de09c085f6a060800000000000000
+      internalID: 6964523807252862417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCAbility_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccca5eb898defe60800000000000000
+      internalID: 7998068138796829894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MCAbility_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ffb3783e4d3da0800000000000000
+      internalID: -5963524327201574533
       vertices: []
       indices: 
       edges: []
@@ -1351,7 +1440,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: de36816606b268347a79d9b69aa7536a
+    spriteID: f69891a9acc6bef4d9fadee29eae2831
     internalID: 0
     vertices: []
     indices: 
@@ -1360,59 +1449,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries:
-      - key: SpriteEditor.SliceOnImport
-        value: False
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      MC_0: 6863246505373101655
-      MC_1: -1924967503192116523
-      MC_10: -4366524311100733777
-      MC_11: -974676990785536744
-      MC_12: -1562478901628554297
-      MC_13: -8466061855047780131
-      MC_14: 279258095228634330
-      MC_15: 5274734203553616916
-      MC_16: 3225260356733930587
-      MC_17: 373206853298094514
-      MC_18: 2984074252734393241
-      MC_19: -8049710614509202208
-      MC_2: -6260237620725970975
-      MC_20: -2282067474139517486
-      MC_21: -4167032046673177572
-      MC_22: 4157072821181168117
-      MC_23: -5184859421852141707
-      MC_24: -84049256329480232
-      MC_25: -3684155408945009019
-      MC_26: 1644062138021629628
-      MC_27: 4298419661847976660
-      MC_28: 8529284683632767307
-      MC_29: -2346443901798229883
-      MC_3: -5643334947165032866
-      MC_30: -2352272408999368033
-      MC_31: -3467070650103736609
-      MC_32: 1010206555381495703
-      MC_33: -1219062665313817185
-      MC_34: 7393138893800189325
-      MC_35: -1818440981740130217
-      MC_36: 2876971094086209098
-      MC_37: -2078916069634430991
-      MC_38: 8346252300081643280
-      MC_39: 6876178271774738010
-      MC_4: 6135918749906333967
-      MC_40: -4064910345757812909
-      MC_41: 93496259646970246
-      MC_42: 5490633025957149958
-      MC_43: -8926417749294132982
-      MC_44: 2314151258237744808
-      MC_45: 1347061488976244433
-      MC_46: -8623579804945270647
-      MC_47: -7689035484891037925
-      MC_5: 5175843303285065140
-      MC_6: 8978587029764345837
-      MC_7: 4710755528382874759
-      MC_8: -7491433212776631916
-      MC_9: 6046315806682182097
+      MCAbility_0: -8815942634087546606
+      MCAbility_1: -4545305525875650656
+      MCAbility_10: 6379029847724255572
+      MCAbility_11: 4857323155808810503
+      MCAbility_12: -837563567218085436
+      MCAbility_13: -4900471412649572193
+      MCAbility_14: 7531897180478605165
+      MCAbility_15: -2884962548443229398
+      MCAbility_16: 1346891858153503718
+      MCAbility_17: -7181834968710690652
+      MCAbility_18: 1644735759338607427
+      MCAbility_19: 4508893047722656719
+      MCAbility_2: -2193985088779921127
+      MCAbility_20: -3914694088335491763
+      MCAbility_21: -7421844440024296327
+      MCAbility_22: -4068081671498905964
+      MCAbility_23: -950319362071860835
+      MCAbility_24: -1480507504358163559
+      MCAbility_25: -3856977971235759948
+      MCAbility_26: -4630820254190614797
+      MCAbility_27: -8357319479346430986
+      MCAbility_28: -5078583021715520318
+      MCAbility_29: 8067141378202766572
+      MCAbility_3: 2940096048757852829
+      MCAbility_30: 3260193023634490329
+      MCAbility_31: 5519103541697576193
+      MCAbility_32: -474042495768338624
+      MCAbility_33: -1255266282306043108
+      MCAbility_34: -8759559427504710615
+      MCAbility_35: -482023247615640894
+      MCAbility_36: 84307064716472326
+      MCAbility_37: -321404541012786880
+      MCAbility_38: -5746560508208299101
+      MCAbility_39: 387666173361287001
+      MCAbility_4: -5469296356873649059
+      MCAbility_40: 7362349565331190736
+      MCAbility_41: -8864708594289189163
+      MCAbility_42: -1946432627390864190
+      MCAbility_43: -2925258751270838947
+      MCAbility_44: 599664182585671435
+      MCAbility_45: 6937156036949882326
+      MCAbility_46: -4003700019051503588
+      MCAbility_47: -7608470727779394904
+      MCAbility_48: 6777028456096533551
+      MCAbility_49: -6753062878385120266
+      MCAbility_5: 8106386232841830785
+      MCAbility_50: 6964523807252862417
+      MCAbility_51: 7998068138796829894
+      MCAbility_52: -5963524327201574533
+      MCAbility_6: 6740602636641644829
+      MCAbility_7: 2554231079493410204
+      MCAbility_8: 1793026288901531356
+      MCAbility_9: 3863993067908556815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
